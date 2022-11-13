@@ -3,7 +3,7 @@
 After execute the shell script by typing the following command, here is the screenshot of teh output. 
 
 ```
-././luser-demo01.sh
+./luser-demo01.sh
 ```
 
 
